@@ -15,7 +15,9 @@ const StyledButton = styled.button`
 `
 
 export const AbButton = () => {
-    return (<StyledButton>
-        Clique aqui!
-    </StyledButton>)
+    return (
+        <StyledButton>
+            Clique aqui!
+        </StyledButton>
+    )
 }
